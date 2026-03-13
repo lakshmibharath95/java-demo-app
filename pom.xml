@@ -40,7 +40,7 @@
        <configuration>
          <archive>
            <manifest>
-             <mainClass>demo.DemoApplication</mainClass>
+		   <mainClass>com.devops.demo.DemoApplication</mainClass>
            </manifest>
          </archive>
        </configuration>
